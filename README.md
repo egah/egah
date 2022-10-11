@@ -9,10 +9,13 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT STACKS
+ ![Alt text](img/Python.svg)  ![Alt text](img/R_logo.png) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) 
+
  
- ![Alt text](img/Python-logo-notext.svg) 
- ![Alt text](img/sql-logo.svg) 
- ![Alt text](img/R_logo.svg) 
- ![Alt text](img/visual_Studio_code_icon.svg) 
+ ![Alt text](img/Postgresql.svg) ![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)
  
+ ![Alt text](img/git.jpeg) ![Alt text](img/github.png) 
+
+ ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
  
+ <!--### STACKS I WANT TO LEARN--
