@@ -9,7 +9,7 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT Stacks
- ![Alt text](img/Python.svg)  ![Alt text](img/R_logo.png) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) 
+ ![Alt text](img/Python.svg)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) 
 
  
  ![Alt text](img/Postgresql.svg) ![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)
