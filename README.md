@@ -8,7 +8,7 @@ Currently, I am learning :
 - Computer vision 
 - Machine learning operation (MLOps)
 
-### IT STACKS
+### IT Stacks
  ![Alt text](img/Python.svg)  ![Alt text](img/R_logo.png) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) 
 
  
@@ -18,4 +18,7 @@ Currently, I am learning :
 
  ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
  
+ ### Networking
+ [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
+
  <!--### STACKS I WANT TO LEARN--
