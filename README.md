@@ -9,7 +9,7 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT Stacks
- ![Alt text](img/Python.svg)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) ![Alt text](img/bash.jpg)
+ [![Alt text](img/Python.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) ![Alt text](img/bash.jpg)
 
  
  ![Alt text](img/Postgresql.svg) ![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)
