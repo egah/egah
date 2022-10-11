@@ -20,5 +20,6 @@ Currently, I am learning :
  
  ### Networking
  [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
+ [![all text](img/twitter.png)](https://twitter.com/egahepiphane)
 
  <!--### STACKS I WANT TO LEARN--
