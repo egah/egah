@@ -21,5 +21,11 @@ Currently, I am learning :
  ### Networking
  [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
  [![all text](img/twitter.png)](https://twitter.com/egahepiphane)
+ 
+ ### Statistics
+ 
+ ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
 
  <!--### STACKS I WANT TO LEARN--
