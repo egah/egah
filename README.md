@@ -21,11 +21,22 @@ Currently, I am learning :
  ### Networking
  [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
  [![all text](img/twitter.png)](https://twitter.com/egahepiphane)
+ [![all text](img/kaggle.png)](https://www.kaggle.com/epiphane)
+
  
  ### Statistics
  
  ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
+
+### Useful link
+ [![all text](img/arxiv.jpg)](https://arxiv.org/)
+ [![all text](img/lb.png)](https://libgen.li/)
+ [![all text](img/paperwithcode.png)](https://paperswithcode.com/)
+ [![all text](img/rg.png)](https://www.researchgate.net/signup.SignUp.html)
+ [![all text](img/Sci-Hub.jpg)](https://sci-hub.hkvisa.net/)
+[![all text](img/conpaper.png)](https://www.connectedpapers.com/)
+
 
  <!--### STACKS I WANT TO LEARN--
