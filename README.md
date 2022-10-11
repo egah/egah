@@ -9,3 +9,10 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT STACKS
+ 
+ ![Alt text](img/Python-logo-notext.svg) 
+ ![Alt text](img/sql-logo.svg) 
+ ![Alt text](img/R_logo.svg) 
+ ![Alt text](img/visual_Studio_code_icon.svg) 
+ 
+ 
