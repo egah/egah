@@ -20,8 +20,6 @@ Currently, I am learning :
  
  ### Networking
  [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
- [![all text](img/twitter.png)](https://twitter.com/egahepiphane)
- [![all text](img/kaggle.png)](https://www.kaggle.com/epiphane)
 
  
  ### Statistics
@@ -41,3 +39,5 @@ Currently, I am learning :
 
 
  <!--### STACKS I WANT TO LEARN--
+ [![all text](img/twitter.png)](https://twitter.com/egahepiphane)
+ [![all text](img/kaggle.png)](https://www.kaggle.com/epiphane)
