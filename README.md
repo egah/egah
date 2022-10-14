@@ -14,9 +14,9 @@ Currently, I am learning :
  
  ![Alt text](img/Postgresql.svg) ![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)
  
- ![Alt text](img/git.jpeg) ![Alt text](img/github.png) 
+ ![Alt text](img/git.jpeg) ![Alt text](img/github.png)  ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
 
- ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
+
  
  ### Stacks I want to learn
  ![Alt text](img/html5.jpg) ![Alt text](img/jquery.png) ![Alt text](img/bootstrap.jpeg) 
