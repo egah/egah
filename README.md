@@ -9,19 +9,17 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT Stacks
- [![Alt text](img/Python.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) ![Alt text](img/bash.jpg)
+ [![Alt text](img/Python.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) ![Alt text](img/bash.jpg) ![Alt text](img/Postgresql.svg)
 
  
- ![Alt text](img/Postgresql.svg) ![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)
+![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)  ![Alt text](img/git.jpeg) ![Alt text](img/github.png)  ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
+
  
- ![Alt text](img/git.jpeg) ![Alt text](img/github.png)  ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
 
 
  
  ### Stacks I want to learn
- ![Alt text](img/html5.jpg) ![Alt text](img/jquery.png) ![Alt text](img/bootstrap.jpeg) 
- 
- ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png)
+ ![Alt text](img/html5.jpg) ![Alt text](img/jquery.png) ![Alt text](img/bootstrap.jpeg) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png)
  
  ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](img/jekins.png) ![Alt text](img/terraform.png) 
  
