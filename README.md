@@ -9,22 +9,25 @@ Currently, I am learning :
 - Machine learning operation (MLOps)
 
 ### IT Stacks
- [![Alt text](img/Python.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](img/R.jpeg) ![Alt text](img/Tensorflow_logo.svg.png) ![Alt text](img/Keras.png) ![Alt text](img/bash.jpg) ![Alt text](img/Postgresql.svg)
+ [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](imgs/r.svg) ![Alt text](imgs/RStudio-75AADB.svg) ![Alt text](imgs/TensorFlow-FF6F00.svg)  ![Alt text](imgs/GNUBash-4EAA25.svg) ![Alt text](imgs/PostgreSQL-316192.svg)
 
  
-![Alt text](img/excel.png) ![Alt text](img/powerpoint.jpeg)  ![Alt text](img/git.jpeg) ![Alt text](img/github.png)  ![Alt text](img/ubuntu.png) ![Alt text](img/vsc.png)
+![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)  ![Alt text](imgs/GIT-E44C30.svg) ![Alt text](imgs/GitLab.svg) ![Alt text](imgs/GitHub.svg)  ![Alt text](imgs/Ubuntu-E95420.svg) 
 
- 
+ ### IDEs
+ ![Alt text](imgs/Visual_Studio_Code-0078D4.svg)
 
 
  
  ### Stacks I want to learn
- ![Alt text](img/html5.jpg) ![Alt text](img/jquery.png) ![Alt text](img/bootstrap.jpeg) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png)
+ ![Alt text](imgs/html.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) 
  
- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](img/jekins.png) ![Alt text](img/terraform.png) 
+ <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) -->
+ 
  
  ### Networking
- [![all text](img/in.png)](https://www.linkedin.com/in/egahepiphane/)
+ [![all text](imgs/LinkedIn.svg)](https://www.linkedin.com/in/egahepiphane/)  [![all text](imgs/Gmail.svg)](egahepiphane@gmail.com)
+
 
  
  ### Statistics
@@ -33,7 +36,7 @@ Currently, I am learning :
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
 
-### Useful websites
+### Education
  [![all text](img/arxiv.jpg)](https://arxiv.org/)
  [![all text](img/lb.png)](https://libgen.li/)
  [![all text](img/rg.png)](https://www.researchgate.net/signup.SignUp.html)
