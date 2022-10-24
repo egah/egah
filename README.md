@@ -20,10 +20,12 @@ Currently, I am learning 🚀️ :
  ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/RStudio-75AADB.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
  
  ### Stacks I want to learn
- ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) 
+ ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg)
  
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+
+![Alt text](imgs/Docker.jpg) ![Alt text](imgs/kubernetes.svg)
  <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) ![Alt text](imgs/java.svg)  -->
 
  ### Networking
