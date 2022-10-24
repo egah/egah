@@ -14,12 +14,13 @@ Currently, I am learning :
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)  ![Alt text](imgs/GIT-E44C30.svg) ![Alt text](imgs/GitLab.svg) ![Alt text](imgs/GitHub.svg)  ![Alt text](imgs/Ubuntu-E95420.svg) 
 
  ### IDEs
- ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/RStudio-75AADB.svg)
+ ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/RStudio-75AADB.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
  
  ### Stacks I want to learn
- ![Alt text](imgs/html.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) 
+ ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) 
  
- ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg)
+
+![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg)
  <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) -->
 
  ### Networking
