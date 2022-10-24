@@ -26,7 +26,6 @@ Currently, I am learning 🚀️ :
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
- <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) ![Alt text](imgs/java.svg)  -->
 
  ### Networking
  [![all text](imgs/LinkedIn.svg)](https://www.linkedin.com/in/egahepiphane/) </a>
