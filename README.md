@@ -32,7 +32,9 @@ Currently, I am learning :
 
 
  ### Statistics
- ![Les Stats GitHub de Epiphane](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
+ ![Les Stats GitHub de Epiphane](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
 
 ### Education
 [![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn)
