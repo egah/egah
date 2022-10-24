@@ -21,8 +21,8 @@ Currently, I am learning :
  ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) 
  
 
-![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg)
- <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) -->
+![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) 
+ <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) ![Alt text](imgs/java.svg)  -->
 
  ### Networking
  [![all text](imgs/LinkedIn.svg)](https://www.linkedin.com/in/egahepiphane/) </a>
@@ -36,7 +36,7 @@ Currently, I am learning :
  ![](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
 
 ### Education
-[![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn)
+[![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn) 
 
 - <a href="https://arxiv.org/">Arxiv.org</a>  
 - <a href="https://libgen.li/">Library Genesis+</a> 
