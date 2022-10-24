@@ -31,20 +31,21 @@ Currently, I am learning :
 
 
  ### Statistics
- ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical)
+ ![Les Stats GitHub de Epiphane](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
 
 ### Education
- <a href="https://arxiv.org/">Arxiv.org</a>
+[![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn)
 
- [![all text](img/arxiv.jpg)](https://arxiv.org/)
- [![all text](img/lb.png)](https://libgen.li/)
- [![all text](img/rg.png)](https://www.researchgate.net/signup.SignUp.html)
+- <a href="https://arxiv.org/">Arxiv.org</a>  
+- <a href="https://libgen.li/">Library Genesis+</a> 
+- <a href="https://www.researchgate.net/signup.SignUp.html">researchgate.net</a>
+- <a href="https://sci-hub.hkvisa.net/">sci-hub</a>
+- <a href="https://paperswithcode.com/">Papers with code</a>
+- <a href="https://www.connectedpapers.com/">connectedpapers</a>
+
  
- [![all text](img/paperwithcode.png)](https://paperswithcode.com/)
- [![all text](img/Sci-Hub.jpg)](https://sci-hub.hkvisa.net/)
- [![all text](img/conpaper.png)](https://www.connectedpapers.com/)
 
 
  <!--### STACKS I WANT TO LEARN--
