@@ -12,7 +12,7 @@ Currently, I am learning 🚀️ :
 ### IT Stacks
  [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](imgs/r.svg) ![Alt text](imgs/TensorFlow-FF6F00.svg) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Alt text](imgs/bash.svg) ![Alt text](imgs/PostgreSQL-316192.svg) ![Alt text](imgs/django.svg)
  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)  ![Alt text](imgs/GIT-E44C30.svg) ![Alt text](imgs/GitLab.svg) ![Alt text](imgs/GitHub.svg)  ![Alt text](imgs/Ubuntu-E95420.svg) 
 
@@ -25,7 +25,7 @@ Currently, I am learning 🚀️ :
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 
-![Alt text](imgs/Docker.jpg) ![Alt text](imgs/kubernetes.svg)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
  <!--- ![Alt text](img/docker.png) ![Alt text](img/kubernetes.png) ![Alt text](img/Vagrant.png) ![Alt text](img/ainsible.jpg) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](img/terraform.png) ![Alt text](img/hadoop.png) ![Alt text](img/Spark.svg.png) ![Alt text](img/kafka.png) ![Alt text](img/airflow.png) ![Alt text](imgs/java.svg)  -->
 
  ### Networking
