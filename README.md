@@ -2,7 +2,7 @@
 ### Who I am?
 My name is **Epiphane EGAH**. I have a master's degree in econometry and statistics. During my studies, I have to perform a research project. I choose to work on word embedding. Since then, I have fallen in love with natural language processing.
 
-Currently, I am learning 🚀️ :
+Currently, I am **learning 🚀️** :
 
 - **How to build artificial intelligence project with CRISP-DM**
 - **Natural language processing**
@@ -12,10 +12,11 @@ Currently, I am learning 🚀️ :
 ### IT Stacks
 <h4>Data Science</h4>
 
- [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Alt text](imgs/r.svg) 
+ [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+ 
+![Alt text](imgs/r.svg) ![Alt text](imgs/RStudio-75AADB.svg)
  
  <h4>Machine learning</h4>
- 
  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Alt text](imgs/TensorFlow-FF6F00.svg) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
  
@@ -33,14 +34,13 @@ Currently, I am learning 🚀️ :
   ![Alt text](imgs/Ubuntu-E95420.svg) 
  ![Alt text](imgs/bash.svg) 
  
+  <h4>IDEs</h4>
+  
+ ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
  
   <h4>Communication</h4>
   
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)
-
-  <h4>IDEs</h4>
-  
- ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/RStudio-75AADB.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
  
  ### Stacks I want to learn
  ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg)
