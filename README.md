@@ -10,13 +10,36 @@ Currently, I am learning 🚀️ :
 - **Machine learning operation (MLOps)**
 
 ### IT Stacks
- [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/)  ![Alt text](imgs/r.svg) ![Alt text](imgs/TensorFlow-FF6F00.svg) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Alt text](imgs/bash.svg) ![Alt text](imgs/PostgreSQL-316192.svg) ![Alt text](imgs/django.svg)
- 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
- 
-![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)  ![Alt text](imgs/GIT-E44C30.svg) ![Alt text](imgs/GitLab.svg) ![Alt text](imgs/GitHub.svg)  ![Alt text](imgs/Ubuntu-E95420.svg) 
+<h4>Data Science</h4>
 
- ### IDEs
+ [![Alt text](imgs/Python-3776AB.svg)](https://www.stechies.com/install-python-3-ubuntu/) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 	 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Alt text](imgs/r.svg) 
+ 
+ <h4>Machine learning</h4>
+ 
+ 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Alt text](imgs/TensorFlow-FF6F00.svg) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+ 
+ <h4>Web development</h4>
+ 
+ ![Alt text](imgs/django.svg)
+ 
+ <h4>Databases</h4>
+ 
+ ![Alt text](imgs/PostgreSQL-316192.svg)  
+ 
+  <h4>DevOps</h4>
+  
+  ![Alt text](imgs/GIT-E44C30.svg) ![Alt text](imgs/GitLab.svg) ![Alt text](imgs/GitHub.svg) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+  ![Alt text](imgs/Ubuntu-E95420.svg) 
+ ![Alt text](imgs/bash.svg) 
+ 
+ 
+  <h4>Communication</h4>
+  
+![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)
+
+  <h4>IDEs</h4>
+  
  ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/RStudio-75AADB.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
  
  ### Stacks I want to learn
