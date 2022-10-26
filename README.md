@@ -22,7 +22,7 @@ Currently, I am **learning 🚀️** :
  
  <h4>Web development</h4>
  
- ![Alt text](imgs/django.svg)
+ ![Alt text](imgs/django.svg) ![Alt text](imgs/Flask-000000.svg) ![Alt text](imgs/fastapi.png)
  
  <h4>Databases</h4>
  
