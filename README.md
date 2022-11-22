@@ -58,6 +58,7 @@ Currently, I am **learning 🚀️** :
     
 ### Certification
 [![all text](imgs/python3_certification.jpg)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-630f3a4d-2fce-41c7-bf78-e37a04ff299a.pdf)
+[![all text](imgs/django_cert.png)](https://www.udemy.com/certificate/UC-fe102953-1cfa-4b36-a890-306ae78ccdbe/)
 
  ### Statistics
  ![](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)
