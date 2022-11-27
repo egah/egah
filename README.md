@@ -22,8 +22,9 @@ Currently, I am **learning 🚀️** :
  
  <h4>Web development</h4>
  
- ![Alt text](imgs/django.svg) ![Alt text](imgs/Flask-000000.svg) ![Alt text](imgs/fastapi.png)
- 
+![Alt text](imgs/fastapi.png) ![Alt text](imgs/django.svg) 
+ ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/bootstrap.svg)
+  ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) 
  <h4>Databases</h4>
  
  ![Alt text](imgs/PostgreSQL-316192.svg)  
@@ -43,7 +44,7 @@ Currently, I am **learning 🚀️** :
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)
  
  ### Stacks I want to learn
- ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) ![Alt text](imgs/bootstrap.svg) ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg)
+ ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg)
  
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
