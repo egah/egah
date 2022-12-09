@@ -57,7 +57,7 @@ Currently, I am **learning 🚀️** :
       <img src="https://img.shields.io/badge/SEND%20MAIL-6D4C6F?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
     
-### Certification
+### Certificates
 [![all text](imgs/python3_certification.jpg)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-630f3a4d-2fce-41c7-bf78-e37a04ff299a.pdf)
 [![all text](imgs/django_cert.png)](https://www.udemy.com/certificate/UC-fe102953-1cfa-4b36-a890-306ae78ccdbe/)
 
