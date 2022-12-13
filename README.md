@@ -68,11 +68,11 @@ Currently, I am **learning 🚀️** :
 [![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn) 
 
 - <a href="https://madewithml.com/">Made with ML</a>
+- <a href="https://paperswithcode.com/">Papers with code</a>
 - <a href="https://arxiv.org/">Arxiv.org</a>  
 - <a href="https://libgen.li/">Library Genesis+</a> 
 - <a href="https://www.researchgate.net/signup.SignUp.html">researchgate.net</a>
 - <a href="https://sci-hub.hkvisa.net/">sci-hub</a>
-- <a href="https://paperswithcode.com/">Papers with code</a>
 - <a href="https://www.connectedpapers.com/">connectedpapers</a>
 
  
