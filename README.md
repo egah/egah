@@ -35,6 +35,10 @@ Currently, I am **learning 🚀️** :
   ![Alt text](imgs/Ubuntu-E95420.svg) 
  ![Alt text](imgs/bash.svg) 
  
+ 
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+ 
   <h4>IDEs</h4>
   
  ![Alt text](imgs/Visual_Studio_Code-0078D4.svg) ![Alt text](imgs/pycharm.svg) ![Alt text](imgs/jupyter.svg)  ![Alt text](imgs/colab.svg)
@@ -44,12 +48,7 @@ Currently, I am **learning 🚀️** :
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)
  
  ### Stacks I want to learn
- ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg)
- 
-
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Alt text](imgs/Jenkins-D24939.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+ ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
  ### Networking
  [![all text](imgs/LinkedIn.svg)](https://www.linkedin.com/in/egahepiphane/) </a>
