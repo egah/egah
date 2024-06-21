@@ -59,16 +59,7 @@ I hold a degree in statistics and machine learning. My passion lies in turning d
  <!--### Statistics
  ![](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)-->
 
-### Education
-[![Alt text](imgs/Udemy.svg)](https://www.udemy.com/) [![Alt text](imgs/datacamp.svg)](https://app.datacamp.com/learn) 
 
-- <a href="https://madewithml.com/">Made with ML</a>
-- <a href="https://paperswithcode.com/">Papers with code</a>
-- <a href="https://arxiv.org/">Arxiv.org</a>  
-- <a href="https://libgen.li/">Library Genesis+</a> 
-- <a href="https://www.researchgate.net/signup.SignUp.html">researchgate.net</a>
-- <a href="https://sci-hub.hkvisa.net/">sci-hub</a>
-- <a href="https://www.connectedpapers.com/">connectedpapers</a>
 
  
 
