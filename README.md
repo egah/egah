@@ -43,18 +43,10 @@ I hold a degree in statistics and machine learning. My passion lies in turning d
   
 ![Alt text](imgs/Microsoft_Excel-217346.svg) ![Alt text](imgs/Microsoft_PowerPoint-B7472A.svg)
  
- ### Stacks I want to learn
- ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+ <!--Stacks I want to learn
+ ![Alt text](imgs/hadoop.png) ![Alt text](imgs/spark.svg) ![Alt text](imgs/Airflow-017CEE.svg) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)-->
 
- ### Networking
- [![all text](imgs/LinkedIn.svg)](https://www.linkedin.com/in/egahepiphane/) </a>
-    <a href="mailto:egahepiphane@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-6D4C6F?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-    
-### Certificates
-[![all text](imgs/python3_certification.jpg)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-630f3a4d-2fce-41c7-bf78-e37a04ff299a.pdf)
-[![all text](imgs/django_cert.png)](https://www.udemy.com/certificate/UC-fe102953-1cfa-4b36-a890-306ae78ccdbe/)
+
 
  <!--### Statistics
  ![](https://github-readme-stats.vercel.app/api?username=egah&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egah&layout=compact)](https://github.com/egah/github-readme-stats)-->
