@@ -19,9 +19,6 @@ I hold a degree in statistics and machine learning. My passion lies in turning d
 ![Alt text](imgs/fastapi.png) ![Alt text](imgs/django.svg) 
  ![Alt text](imgs/html5.svg) ![Alt text](imgs/css.svg) ![Alt text](imgs/bootstrap.svg)
   ![Alt text](imgs/javascript.svg) ![Alt text](imgs/jquery.svg) 
- <h4>Databases</h4>
- 
- ![Alt text](imgs/PostgreSQL-316192.svg)  
  
   <h4>DevOps</h4>
   
